@@ -1,0 +1,32 @@
+{
+	"name": "akcybex/php-youtube",
+	"type": "library",
+	"description": "PHP wrapper for the Youtube URL validation, Embedded URL & Video Thumbnail generation.",
+	"keywords": [
+		"youtube",
+		"url",
+		"validation",
+		"embedded",
+		"akcybex",
+		"mtt786"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Rana Tayyab",
+			"email": "tayyab@akcybex.com"
+		}
+	],
+	"support": {
+		"email": "contact@akcybex.com",
+		"issues": "https://github.com/akcybex/php-youtube/issues"
+	},
+	"require": {
+		"php": ">=7.4"
+	},
+	"autoload": {
+		"psr-4": {
+			"AKCybex\\": "src"
+		}
+	}
+}
